@@ -52,12 +52,6 @@ This project is a Flutter (Dart) mobile application that helps users manage heal
    flutter run
    ```
 
-6. (Optional) Run tests:
-
-   ```bash
-   flutter test
-   ```
-
 ## Possible Extensions
 
 - Integrate an image recognition + nutrition database API to auto-estimate nutrition from photos.
